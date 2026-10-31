@@ -1,7 +1,8 @@
 # Little law demo — Spring Boot / Hibernate / HikariCP
 
-Application laboratoire pour rejouer les scénarios de l'article
-*Comprendre la saturation d'une application Spring Boot avec la loi de Little*.
+Article : https://blog.adriencaubel.fr/posts/performance/saturation_spring_hikari_2/
+
+Objectif : illustrer une montée en charge et trouver les goulots d'étranglement
 
 ## Démarrer
 
